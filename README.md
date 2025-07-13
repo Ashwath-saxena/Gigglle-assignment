@@ -1,4 +1,4 @@
-# Challenge Submission Backend
+# Assignment - NodeJS Developer 
 
 A lightweight Node.js backend that supports a simplified version of the "Challenge Submission" flow used in the Gigglle app.
 
